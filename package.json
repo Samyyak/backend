@@ -1,0 +1,19 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "A small project for backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Samyak Jain",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.6",
+    "express": "^4.21.1"
+  }
+}
